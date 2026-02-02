@@ -1,3 +1,3 @@
 ゲームのURLはこちらです。
 
-https://bluerose152534.github.io/aaaa/
+https://bluerose152534.github.io/tango-slasher/
